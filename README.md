@@ -1,10 +1,18 @@
 
 <!--![Kvtf](https://github.com/user-attachments/assets/9d1da8b5-e8bc-496c-9875-4ad51e515ce2)-->
-<div align="center">
+<div align="center" >
 <img src="https://github.com/user-attachments/assets/9d1da8b5-e8bc-496c-9875-4ad51e515ce2" width="50%" height="20%" align-item="center"/>
   <br>
   <br>
 </div>
+
+<div align="center">
+    <h1>
+        <img src="https://readme-typing-svg.herokuapp.com?font=Garamond&size=25&duration=4000&color=FFFF00&center=true&vCenter=true&width=450&lines=Hii+there,+Welcome+to+my+GitHub+Page!..;I+am+Jyoti+Dercima!;Aspiring+Technologist!;Exploring+new+technologies!;Let's+grow+together!;Always+Evolving!;"
+            alt="Typing SVG" />
+    </h1>
+</div>
+
 <h1 align="center">Aspiring Technologist 🌈 | Web Dev + Cloud | Always Evolving</h1>
 <br>
 
@@ -56,3 +64,4 @@ Hi👋 I'm **Jyoti Dercima**
 ## ✨ Motto
 _"Learn, Build, Reflect, Repeat. Growth is a process."_  
 Let’s connect, collaborate, and grow together! 🌱
+
