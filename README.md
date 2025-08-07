@@ -37,12 +37,13 @@ Hi👋 I'm **Jyoti Dercima**
 - Git & GitHub
 - Also Learning and Exploring: Cloud Basics | AI/ML with Python
 
----
+<!---
 
 ## 📊 GitHub Stats
 ![Jyoti's GitHub stats](https://github-readme-stats.vercel.app/api?username=jyotidercima&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jyotidercima&layout=compact&theme=radical)
 
+--->
 ---
 
 ## 🌱 Latest Activity
