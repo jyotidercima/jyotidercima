@@ -13,7 +13,7 @@
     </h1>
 </div>
 
-<h1 align="center">Aspiring Technologist 🌈 | Web Dev + Cloud | Always Evolving</h1>
+<!--<h1 align="center">Aspiring Technologist 🌈 | Web Dev + Cloud | Always Evolving</h1>-->
 <br>
 
 # 💫 About Me:<br>
