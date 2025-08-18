@@ -37,13 +37,17 @@ Hi👋 I'm **Jyoti Dercima**
 - Git & GitHub
 - Also Learning and Exploring: Cloud Basics | AI/ML with Python
 
-<!---
 
-## 📊 GitHub Stats
+
+## 📊 GitHub Stats 
+<!--
 ![Jyoti's GitHub stats](https://github-readme-stats.vercel.app/api?username=jyotidercima&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jyotidercima&layout=compact&theme=radical)
+-->
+![jyotidercima's Streak](https://github-readme-streak-stats.herokuapp.com/?user=jyotidercima&theme=tokyonight&hide_border=false)
+![jyotidercima's Stats](https://github-readme-stats.vercel.app/api?username=jyotidercima&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)
+![jyotidercima's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jyotidercima&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)
 
---->
 ---
 
 ## 🌱 Latest Activity
