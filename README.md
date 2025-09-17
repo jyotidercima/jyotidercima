@@ -47,6 +47,7 @@ Hi👋 I'm **Jyoti Dercima**
 ![jyotidercima's Streak](https://github-readme-streak-stats.herokuapp.com/?user=jyotidercima&theme=tokyonight&hide_border=false)
 ![jyotidercima's Stats](https://github-readme-stats.vercel.app/api?username=jyotidercima&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)
 ![jyotidercima's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jyotidercima&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)
+[![An image of @jyotidercima's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/jyotidercima)](https://holopin.io/@jyotidercima)
 
 ---
 
