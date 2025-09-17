@@ -1,7 +1,8 @@
 
 <!--![Kvtf](https://github.com/user-attachments/assets/9d1da8b5-e8bc-496c-9875-4ad51e515ce2)-->
 <div align="center" >
-<img src="https://github.com/user-attachments/assets/9d1da8b5-e8bc-496c-9875-4ad51e515ce2" width="50%" height="20%" align-item="center"/>
+
+  <img src="https://github.com/user-attachments/assets/9d1da8b5-e8bc-496c-9875-4ad51e515ce2" width="50%" height="20%" align-item="center"/>
   <br>
   <br>
 </div>
@@ -44,10 +45,10 @@ Hi👋 I'm **Jyoti Dercima**
 ![Jyoti's GitHub stats](https://github-readme-stats.vercel.app/api?username=jyotidercima&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jyotidercima&layout=compact&theme=radical)
 -->
+[![An image of @jyotidercima's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/jyotidercima)](https://holopin.io/@jyotidercima)
 ![jyotidercima's Streak](https://github-readme-streak-stats.herokuapp.com/?user=jyotidercima&theme=tokyonight&hide_border=false)
 ![jyotidercima's Stats](https://github-readme-stats.vercel.app/api?username=jyotidercima&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)
 ![jyotidercima's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jyotidercima&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)
-[![An image of @jyotidercima's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/jyotidercima)](https://holopin.io/@jyotidercima)
 
 ---
 
