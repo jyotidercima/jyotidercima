@@ -45,7 +45,6 @@ Hi👋 I'm **Jyoti Dercima**
 ![Jyoti's GitHub stats](https://github-readme-stats.vercel.app/api?username=jyotidercima&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jyotidercima&layout=compact&theme=radical)
 -->
-[![An image of @jyotidercima's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/jyotidercima)](https://holopin.io/@jyotidercima)
 ![jyotidercima's Streak](https://github-readme-streak-stats.herokuapp.com/?user=jyotidercima&theme=tokyonight&hide_border=false)
 ![jyotidercima's Stats](https://github-readme-stats.vercel.app/api?username=jyotidercima&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)
 ![jyotidercima's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jyotidercima&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)
@@ -72,3 +71,6 @@ Hi👋 I'm **Jyoti Dercima**
 _"Learn, Build, Reflect, Repeat. Growth is a process."_  
 Let’s connect, collaborate, and grow together! 🌱
 
+---
+
+[![An image of @jyotidercima's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/jyotidercima)](https://holopin.io/@jyotidercima)
