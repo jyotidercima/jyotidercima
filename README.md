@@ -53,14 +53,16 @@ Hi👋 I'm **Jyoti Dercima**
 
 ## 🌱 Latest Activity
 <!-- GitHub activity extension if needed -->
-🚀 Participating in NationSkillUp Program  
-🔁 Getting started with GSSoC Open-Source Program  
-🎯 Working on Building projects to build confidence..
+- 🔁 Continuing my Open-Source Journey with WOCS2025
+- 🚀 Completed FullStack Development Course from NationSkillup Program GFG
+- 🔁 Getting started with an Open-Source Program with OSCI2025  
+- 🎯 Working on building projects to build confidence..
 
 ---
 
 ## 📫 Connect With Me
 - 💼 [LinkedIn](https://www.linkedin.com/in/jyoti-dercima/)
+- 👍 [X](https://x.com/JDercima)
 - 📮 Email: jyotid.webdev@gmail.com
 - 📁 [Portfolio (Coming Soon!)]
 
@@ -72,5 +74,6 @@ _"Learn, Build, Reflect, Repeat. Growth is a process."_
 Let’s connect, collaborate, and grow together! 🌱
 
 ---
+  <img src="https://komarev.com/ghpvc/?username=jyotidercima&label=Profile%20views&color=0e75b6&style=flat" /> 
 
 [![An image of @jyotidercima's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/jyotidercima)](https://holopin.io/@jyotidercima)
