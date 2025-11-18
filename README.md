@@ -14,6 +14,7 @@
     </h1>
 </div>
 
+
 <!--<h1 align="center">Aspiring Technologist 🌈 | Web Dev + Cloud | Always Evolving</h1>-->
 <br>
 
@@ -29,25 +30,58 @@ Hi👋 I'm **Jyoti Dercima**
 
 ---
 
+<!--
 ## 🛠️ Tech Stack
+
 - HTML, CSS, JavaScript
-- In Progress:
 - Bootstrap, Tailwind CSS
-- React.js, Node.js, Express.js
-- MongoDB
+- MERN stack
 - Git & GitHub
-- Also Learning and Exploring: Cloud Basics | AI/ML with Python
+- Also Learning and Exploring:
+- Cloud Basics
+- AI/ML with Python 
+-->
+## ⚡ Tech Stack
+
+<!-- ### 🌐 Frontend ### 🧠 Backend & API Development ### 🗂 File Processing & OCR ### 🔒 Authentication & Cloud Services ### 🚀 Deployment & DevOps ### 📚 Additional Skills
+-->
 
 
+
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html" width="45"/>
+  <img src="https://skillicons.dev/icons?i=css" width="45"/>
+  <img src="https://skillicons.dev/icons?i=js" width="45"/>
+  <img src="https://skillicons.dev/icons?i=react" width="45"/>
+  <img src="https://skillicons.dev/icons?i=vite" width="45"/>
+  <img src="https://skillicons.dev/icons?i=tailwind" width="45"/>
+
+  <img src="https://skillicons.dev/icons?i=nodejs" width="45"/>
+  <img src="https://skillicons.dev/icons?i=express" width="45"/>
+  <img src="https://skillicons.dev/icons?i=npm" width="45"/>
+  <img src="https://skillicons.dev/icons?i=postman" width="45"/>
+
+
+  <img src="https://skillicons.dev/icons?i=firebase" width="45"/>
+
+  <img src="https://skillicons.dev/icons?i=vercel" width="45"/>
+  <img src="https://skillicons.dev/icons?i=git" width="45"/>
+  <img src="https://skillicons.dev/icons?i=github" width="45"/>
+</p>
 
 ## 📊 GitHub Stats 
 <!--
 ![Jyoti's GitHub stats](https://github-readme-stats.vercel.app/api?username=jyotidercima&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jyotidercima&layout=compact&theme=radical)
 -->
-![jyotidercima's Streak](https://github-readme-streak-stats.herokuapp.com/?user=jyotidercima&theme=tokyonight&hide_border=false)
-![jyotidercima's Stats](https://github-readme-stats.vercel.app/api?username=jyotidercima&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)
-![jyotidercima's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jyotidercima&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)
+
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/jyotidercima?cardType=octocat&theme=highcontrast&preferLogin=false&Border=DADD1B)](https://git.io/awesome-stats-card)
+<!--
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jyotidercima&theme=chartreuse-dark&show_icons=true&hide_border=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jyotidercima&theme=chartreuse-dark&show_icons=true&hide_border=true&layout=compact)
+![GitHub Stats](https://streak-stats.demolab.com?user=jyotidercima&theme=chartreuse-dark&hide_border=true)
+-->
 
 ---
 
@@ -55,17 +89,26 @@ Hi👋 I'm **Jyoti Dercima**
 <!-- GitHub activity extension if needed -->
 - 🔁 Continuing my Open-Source Journey with WOCS2025
 - 🚀 Completed FullStack Development Course from NationSkillup Program GFG
-- 🔁 Getting started with an Open-Source Program with OSCI2025  
+- 🔁 Started with an Open-Source contribution with OSCI2025  
 - 🎯 Working on building projects to build confidence..
 
 ---
 
 ## 📫 Connect With Me
-- 💼 [LinkedIn](https://www.linkedin.com/in/jyoti-dercima/)
-- 👍 [X](https://x.com/JDercima)
-- 📮 Email: jyotid.webdev@gmail.com
-- 📁 [Portfolio (Coming Soon!)]
-
+<div id="badges">
+  <a href="[](https://www.linkedin.com/in/jyoti-dercima/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="[your-youtube-URL](https://www.youtube.com/@jyotidercima)">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  </a>
+  <a href="[](https://x.com/JDercima)">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+<a href="mailto:yourname@example.com">
+  <img src="https://img.icons8.com/color/48/000000/gmail-new.png" width="30" />
+</a>
+</div>
 
 ---
 
@@ -74,6 +117,8 @@ _"Learn, Build, Reflect, Repeat. Growth is a process."_
 Let’s connect, collaborate, and grow together! 🌱
 
 ---
-  <img src="https://komarev.com/ghpvc/?username=jyotidercima&label=Profile%20views&color=0e75b6&style=flat" /> 
+
+  <!--
 
 [![An image of @jyotidercima's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/jyotidercima)](https://holopin.io/@jyotidercima)
+-->
