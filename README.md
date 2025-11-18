@@ -87,10 +87,10 @@ Hi👋 I'm **Jyoti Dercima**
 
 ## 🌱 Latest Activity
 <!-- GitHub activity extension if needed -->
-- 🔁 Continuing my Open-Source Journey with WOCS2025
-- 🚀 Completed FullStack Development Course from NationSkillup Program GFG
-- 🔁 Started with an Open-Source contribution with OSCI2025  
-- 🎯 Working on building projects to build confidence..
+- Continuing my Open-Source Journey with WOCS2025.
+- Completed FullStack Development Course from NationSkillup Program GFG.
+- Started with an Open-Source contribution with OSCI2025.
+- Working on building projects to build confidence..
 
 ---
 
