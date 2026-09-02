@@ -20,7 +20,8 @@
 
 # 💫 About Me:<br>
 Hi👋 I'm **Jyoti Dercima**
-💻 An aspiring Full Stack Web Developer passionate about building real-world applications.  
+
+💻<!-- An aspiring Full Stack Web Developer --> Passionate about building real-world applications.  
 📚 Currently learning the **MERN Stack (MongoDB, Express.js, React, Node.js)**.  
 ☁️ Curious about **Cloud Computing**, **AI/ML**, and **Data Science**.  
 📈 I believe in learning by building and staying consistent with growth.
