@@ -118,7 +118,10 @@ _"Learn, Build, Reflect, Repeat. Growth is a process."_
 Let’s connect, collaborate, and grow together! 🌱
 
 ---
-
+****
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=jyotidercima)
+  
+  
   <!--
 
 [![An image of @jyotidercima's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/jyotidercima)](https://holopin.io/@jyotidercima)
